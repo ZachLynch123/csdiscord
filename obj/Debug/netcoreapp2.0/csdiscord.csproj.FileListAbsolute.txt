@@ -1,0 +1,10 @@
+D:\projects\csdiscord\bin\Debug\netcoreapp2.0\csdiscord.deps.json
+D:\projects\csdiscord\bin\Debug\netcoreapp2.0\csdiscord.runtimeconfig.json
+D:\projects\csdiscord\bin\Debug\netcoreapp2.0\csdiscord.runtimeconfig.dev.json
+D:\projects\csdiscord\bin\Debug\netcoreapp2.0\csdiscord.dll
+D:\projects\csdiscord\bin\Debug\netcoreapp2.0\csdiscord.pdb
+D:\projects\csdiscord\obj\Debug\netcoreapp2.0\csdiscord.csproj.CoreCompileInputs.cache
+D:\projects\csdiscord\obj\Debug\netcoreapp2.0\csdiscord.AssemblyInfoInputs.cache
+D:\projects\csdiscord\obj\Debug\netcoreapp2.0\csdiscord.AssemblyInfo.cs
+D:\projects\csdiscord\obj\Debug\netcoreapp2.0\csdiscord.dll
+D:\projects\csdiscord\obj\Debug\netcoreapp2.0\csdiscord.pdb
